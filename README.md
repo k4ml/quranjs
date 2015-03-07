@@ -27,4 +27,4 @@ var quran = new QuranJS('firebase');
 
 # Existing Implementations
 * https://github.com/qzaidi/quran (nodejs)
-* http://docs.globalquran.com/API:Javascript/Quran
+* http://docs.globalquran.com/API:Javascript/Quran (https://github.com/GlobalQuran/site)
