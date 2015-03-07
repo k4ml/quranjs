@@ -18,7 +18,8 @@ quran.getRandomVerse();
 
 // we can also switch the backend storage
 // this will fetch data stored in firebase
-// instead of the default Google Spreadsheets.
+// instead of the default data.js.
+var quran = new QuranJS('google');
 var quran = new QuranJS('firebase');
 ```
 
